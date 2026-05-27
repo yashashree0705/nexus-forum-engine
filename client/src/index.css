@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  background-color: #020617;
+}
+/* Custom cross-browser dark scrollbars to fit the aesthetic */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #020617; }
+::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 10px; }
